@@ -48,6 +48,7 @@ setx GOOGLE_API_KEY "YOUR_API_KEY_HERE"
 ## ----------------------------------
 streamlit
 google-genai
+python-dotenv
 ## -----------------------------------
 Type the following commad in the terminl/Poershell
 
